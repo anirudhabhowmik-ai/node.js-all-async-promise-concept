@@ -1,0 +1,9 @@
+1. Write 4 function - Each and every function you have certain operation.
+
+
+4 file --- 2 read | 2 write
+
+1. Promise.All || Promise Resolve Reject || Calback()
+2. Async Await || Promise Resolve Reject || Calback()
+3. Async Waterfall || Calback()
+4. Async Parallel  || Calback()

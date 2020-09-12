@@ -1,0 +1,29 @@
+<html>
+   <body>
+      <div style="float: left;position: absolute;top:30%;bottom: 0;left: 40%;right: 0;margin: auto;">
+        <form action = "http://127.0.0.1:8080/submitdata" method = "POST">
+            First Name: <input type = "text" name = "first_name">  <br /> 
+            Last Name: <input type = "text" name = "last_name"> <br />   <br />
+            <input type = "submit" id="enter" value = "Submit">
+        </form>
+      </div>
+                
+   </body>
+   <script>
+      $('#enter').click(function(){  
+         //
+         $.ajax({ 
+               url: '/ajax',
+               type: 'POST',
+               cache: false, 
+               data: { field1: 1, field2: 2 }, 
+               success: function(data){
+                  alert('Success!')
+               }
+               , error: function(jqXHR, textStatus, err){
+                  alert('text status '+textStatus+', err '+err)
+               }
+            })
+      });      
+   </script>
+</html>

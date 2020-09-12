@@ -1,0 +1,6 @@
+Express with NodeJS - 
+How the API works - 
+Get, Post - 
+Cors - 
+BodyParser -
+FS - file system

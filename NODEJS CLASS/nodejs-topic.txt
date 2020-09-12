@@ -1,0 +1,58 @@
+Summary of the Courses -
+
+1.  Fundamentals of Node js and What is Nodejs ?
+2.  ClientSide vs ServerSide in Nodejs ?
+3.  Why node js in Non Bocking IO ? 
+4.  Why node js single threaded Event Driven Programming Language ?
+5.  Callbacks in Nodejs
+6.  Promise in NodeJS
+7.  Promise resolve and Promise resolve all
+8.  setTimeOut, setInterval, setImmediate, processNextTick in Nodejs 
+9.  Async concept in Node js 
+10.  Nodejs with Express Application
+11. Nodejs with Express cors issue resolve
+12. Nodejs with Express GET, POST, DELETE, PUT
+13. NodeJS file operation
+14. NodeJS with Mongodb operation
+15. NodeJS MVC achitecture how to write a perfect code. 
+
+Details of the Courses ---
+
+1. Overview of Node js?
+2. What is Node js?
+3. Difference between ClientSide vs ServerSide
+4. Why node js?
+5. Installation of Node js?
+6. Why Node js is nonblocking IO?
+7. Why Node js is single-threaded?
+8. What is Event-Driven Programming Language in node js? 
+9. What is set timeout and setInterval in node js?
+10. What is setImmediate and processNextTick in node js?
+11. What are callbacks in Nodejs?
+12. callbacks with an example in Nodejs? 
+13. What are promises in Node js?
+14. Nodejs promises example in Nodejs
+15. How to resolve all promises in Nodejs
+16. How to reject promises in Nodejs
+17. Async Await in Nodejs 
+18. Async waterfall in Nodejs 
+19. Async parallel in Nodejs
+20. Async Priority queue in Nodejs
+21. Async Race in Nodejs 
+22. Nodejs with Express Application
+23. Nodejs with Express cors issue resolve
+24. Nodejs with Express GET, POST, DELETE, PUT
+
+
+Why we should learn Nodejs?
+
+Nodejs will help you find answers to the below questions that might be part of various Business Scenarios:
+
+- Nodejs is a JavaScript framework, every developer knows JavaScript 
+- Nodejs is easy to learn
+- Nodejs is a serverside programming language and open-source? Its build on top of Javascript v8 engine by Google
+- Node.js runs single-threaded, non-blocking, asynchronously programming, which is very memory efficient.
+- Node.JS supports Stimulate Sharing ( Node Package Manager or NPM )
+- Node.JS Single Code Base For Real-Time Web Application
+- Node.JS supports Data Streaming
+- Node.JS supports For Hosting e.t.c

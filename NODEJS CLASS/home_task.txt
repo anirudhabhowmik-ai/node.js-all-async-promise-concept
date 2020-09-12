@@ -1,0 +1,7 @@
+// Read the data.json --> 1 function
+// Second function name -> write.json multiply id by 10. --> Second function and change the name to ="yourname"
+
+
+Note - 
+
+1. I want to see callback & promise logic implemented to your program.
